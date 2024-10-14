@@ -1,0 +1,21 @@
+.button{
+    color: antiquewhite;
+    background-color: forestgreen
+}
+
+.h1{  background-color: red; 
+    color: #ffffff; /* Ağ rəngli mətn */
+    margin: 0; /* Yuxarı və aşağı boşluğu aradan qaldırmaq */
+    padding: 10px; /* İçəri boşluq */
+    border-top-left-radius: 15px; /* Yuxarı sol küncü yuvarlaqlaşdır */
+    border-top-right-radius: 15px; /* Yuxarı sağ küncü yuvarlaqlaşdır */
+    text-align: center; /* Mətni mərkəzləşdirmək */
+}
+
+.div{
+    border: 2px solid #007BFF; /* Mavi rəngli sərhəd */
+    padding: 20px; /* İçəri boşluq */
+    margin: 20px auto; /* Yalnız yuxarı-aşağı boşluq, avtomatik olaraq mərkəzləşdirmək üçün */
+    max-width: 400px; /* Div-in maksimal eni */
+    border-radius: 15px; /* Kənarları yuvarlaqlaşdırmaq */
+}
